@@ -21,7 +21,7 @@ def option_price(S, K, vol, T, r):
     
     return Vcall, Vput
 
-st.title("Options pricing app")
+st.title("Options pricing app EDIT")
 
 S = 100
 K = 70
